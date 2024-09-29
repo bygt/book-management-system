@@ -4,7 +4,7 @@ This is a **Book Management System** built using **Node.js**, **TypeScript**, **
 
 ###
 
- <img align="right" src="https://github.com/user-attachments/assets/e08dbafe-e527-43af-bdc9-c744ef7dc662" alt="image" height="280px"/>
+ <img align="right" src="https://github.com/user-attachments/assets/74eb3996-68f6-4f16-a094-8735d1f8f91c" alt="image" height="280px"/> 
 
 
 ###
