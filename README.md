@@ -51,7 +51,7 @@ Follow the steps below to install and set up the project on your local machine.
 
 Before you begin, ensure you have met the following requirements:
 
-- **Docker**: Make sure Docker is installed on your machine. You can download it from the [official Docker website](https://www.docker.com/get-started).
+- **Docker**: Make sure Docker is installed on your machine.
 - **Docker Compose**: This project uses Docker Compose for managing multi-container applications. Ensure it is installed alongside Docker.
 
 
